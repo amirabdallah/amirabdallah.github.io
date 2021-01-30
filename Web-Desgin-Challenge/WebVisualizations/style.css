@@ -1,0 +1,33 @@
+/* Styling for Page Headers */
+h1{
+    margin-left:50px;
+    margin-right:50px;
+    color: teal;
+}
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* styling for Visualization Header */
+h2{
+    margin-left:50px;
+    margin-right:50px;
+    color: teal;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: teal;
+    color: white;
+  }
